@@ -14,13 +14,19 @@ h3 {
     color: dimgray;
 }
 
-p {
+p, ol, ul {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
     font-weight: lighter;
+}
+
+p {
     color: black;
 }
 
+ol, ul {
+    color: darkslategrey;
+}
 img {
     height: auto;
     width: 250px;
