@@ -28,6 +28,5 @@ ol, ul {
     color: darkslategrey;
 }
 img {
-    height: auto;
-    width: 250px;
+    clip-path: inset(300px 200px);
 }
